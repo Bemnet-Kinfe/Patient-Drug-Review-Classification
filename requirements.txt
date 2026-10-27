@@ -1,0 +1,12 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+tqdm>=4.65
+
+# Classifier 2: BERT
+torch>=2.0
+transformers>=4.38
+
+# Classifier 3: zero-shot LLM
+anthropic>=0.40
