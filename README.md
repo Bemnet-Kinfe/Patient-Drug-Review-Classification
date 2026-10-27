@@ -15,7 +15,7 @@ We benchmark three classifier families on the same data and evaluation protocol:
 | # | Method | Paradigm | Folder |
 |---|--------|----------|--------|
 | 1 | TF-IDF + Linear SVM (OvR & OvO) | Classical sparse features | [`01_svm_tfidf/`](01_svm_tfidf/) |
-| 2 | Fine-tuned `bert-base-uncased` | Supervised deep learning | [`02_bert_finetune/`](02_bert_finetune/) |
+| 2 | Fine-tuned bert-base-uncased | Supervised deep learning | [`02_bert_finetune/`](02_bert_finetune/) |
 | 3 | Zero-shot Claude (2 prompt variants) | Prompt-only, no training | [`03_zero_shot_llm/`](03_zero_shot_llm/) |
 
 **Target conditions (6):** Birth Control, Depression, Anxiety, Acne, ADHD, Diabetes Type 2.
