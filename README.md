@@ -48,9 +48,7 @@ Full write-up: [`report/Group13_Project_Report.pdf`](report/Group13_Project_Repo
 ├── 01_svm_tfidf/          # Classifier 1: TF-IDF + LinearSVC
 ├── 02_bert_finetune/      # Classifier 2: fine-tuned BERT
 ├── 03_zero_shot_llm/      # Classifier 3: zero-shot Claude API
-├── common/data_utils.py   # Shared loading + filtering to the 6 conditions
-├── data/                  # Put the dataset here (not committed)
-├── results/               # Script outputs (predictions, confusion matrices)
+├── common_data_utils.py   # Shared loading + filtering to the 6 conditions
 ├── report/                # Final project report (PDF)
 └── requirements.txt
 ```
