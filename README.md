@@ -39,7 +39,7 @@ Only the free-text review is used as model input. Drug name and rating fields ar
 - **Distinct vocabulary beats class size.** Diabetes Type 2 is the smallest class but scores F1 ≥ 0.96 across models thanks to terms like *metformin*, *A1C* and *glucose*.
 - **Prompt design is a major lever.** Rewording the zero-shot prompt raised macro F1 by 14 points, more than the gap between SVM and BERT.
 
-Full write-up: [`report/Group13_Project_Report.pdf`](report/Group13_Project_Report.pdf)
+Full write-up: [`report/Classifier_Report.pdf`](report/Classifier_Project.pdf)
 
 ## Repository structure
 
